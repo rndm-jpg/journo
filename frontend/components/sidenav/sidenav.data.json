@@ -1,0 +1,63 @@
+[
+  [
+    {
+      "href": "/dashboard",
+      "icon": {
+        "type": "image",
+        "value": {
+          "default": "/assets/icons/dashboard.svg",
+          "active": "/assets/icons/dashboard-active.svg"
+        }
+      },
+      "title": "Dashboard"
+    }
+  ],
+  [
+    {
+      "href": "/scrapings",
+      "icon": {
+        "type": "image",
+        "value": {
+          "default": "/assets/icons/scrapings.svg",
+          "active": "/assets/icons/scrapings-active.svg"
+        }
+      },
+      "title": "Scrapings"
+    },
+    {
+      "href": "/qc",
+      "icon": {
+        "type": "image",
+        "value": {
+          "default": "/assets/icons/qc.svg",
+          "active": "/assets/icons/qc-active.svg"
+        }
+      },
+      "title": "Quality Check"
+    }
+  ],
+  [
+    {
+      "href": "/settings",
+      "icon": {
+        "type": "image",
+        "value": {
+          "default": "/assets/icons/settings.svg",
+          "active": "/assets/icons/settings.svg"
+        }
+      },
+      "title": "Settings"
+    },
+    {
+      "href": "/logout",
+      "icon": {
+        "type": "image",
+        "value": {
+          "default": "/assets/icons/logout.svg",
+          "active": "/assets/icons/logout.svg"
+        }
+      },
+      "title": "Logout"
+    }
+  ]
+]

@@ -1,0 +1,20 @@
+.aside {
+    width: 300px;
+}
+
+.nav-item {
+    font-weight: 500;
+}
+
+.nav-item:hover, .nav-item.active {
+    opacity: 1;
+}
+
+.nav-group:not(:last-child) {
+    border-bottom: 1px solid rgba(255, 255, 255, .8);
+}
+
+.nav-icon {
+    width: 27px;
+    height: 27px;
+}

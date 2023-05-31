@@ -1,0 +1,19 @@
+* {
+    transition: all .2s ease-in;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    opacity: .8;
+    color: unset;
+}
+
+a:hover {
+    opacity: 1;
+    color: unset;
+}
